@@ -1,6 +1,6 @@
 ﻿using ImGuiNET;
 
-namespace DalamudPluginProjectTemplate
+namespace BlueMageHelper
 {
     public class PluginUI
     {

@@ -2,7 +2,7 @@
 using Dalamud.Plugin;
 using Newtonsoft.Json;
 
-namespace DalamudPluginProjectTemplate
+namespace BlueMageHelper
 {
     public class Configuration : IPluginConfiguration
     {

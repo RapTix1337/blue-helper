@@ -1,8 +1,8 @@
 ﻿using System;
+using BlueMageHelper.Attributes;
 using Dalamud.Plugin;
-using DalamudPluginProjectTemplate.Attributes;
 
-namespace DalamudPluginProjectTemplate
+namespace BlueMageHelper
 {
     public class Plugin : IDalamudPlugin
     {
