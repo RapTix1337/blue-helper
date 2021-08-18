@@ -7,6 +7,8 @@ namespace BlueMageHelper
     public class Configuration : IPluginConfiguration
     {
         public int Version { get; set; }
+        public float Opacity { get; set; } = 1.0f;
+        public bool isLocked { get; set; } = false;
 
         // Add any other properties or methods here.
         [JsonIgnore] private DalamudPluginInterface pluginInterface;
